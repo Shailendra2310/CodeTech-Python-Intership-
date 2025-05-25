@@ -7,7 +7,7 @@ from nltk.chat.util import Chat, reflections
 # Sample chatbot pairs
 pairs = [
     ["hi|hello|hey", ["Hello!", "Hi there!", "Hey!"]],
-    ["what is your name?", ["I am a chatbot created by Varun."]],
+    ["what is your name?", ["I am a chatbot created by Shailendra."]],
     ["how are you?", ["I'm doing well, thank you!", "All good here."]],
     ["what can you do?", ["I can answer basic questions."]],
     ["bye|goodbye", ["Goodbye!", "See you later!", "Bye!"]],
